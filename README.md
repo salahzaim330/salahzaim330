@@ -68,4 +68,4 @@ Passionné par la technologie et la résolution de problèmes complexes, je m'ef
 ## 📫 Me contacter
 
 📧 salahzaim330@gmail.com 
-🔗 [LinkedIn](linkedin.com/in/salah-eddine-e-zzaime/)
+🔗 [LinkedIn](https://www.linkedin.com/in/salah-eddine-e-zzaime-2a0342268/)
