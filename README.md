@@ -1,8 +1,8 @@
 <h1 align="center">Salut, je suis Salah 👋</h1>
 
-Je suis un étudiant en Génie Informatique et Technologies Émergentes, spécialisé en Développement Logiciel. Passionné par les nouvelles technologies et la résolution de problèmes complexes, je suis constamment à la recherche de moyens pour développer mes compétences et explorer des solutions innovantes.
+Je suis un étudiant en Génie Informatique et Technologies Émergentes, spécialisé en Développement Logiciel. Passionné par les nouvelles technologies et la résolution de problèmes complexes, je suis constamment à la recherche de moyens pour développer mes compétences et explorer des solutions innovantes.  
 
-🚀 Actuellement, j’approfondis mes connaissances en React et Node.js, dans le but de maîtriser l’écosystème JavaScript full-stack (MERN).
+Actuellement, j’approfondis mes connaissances en React et Node.js, dans le but de maîtriser l’écosystème JavaScript full-stack (MERN).  
 ---
 
 ## 🌟 À propos de moi
