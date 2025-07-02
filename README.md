@@ -1,9 +1,8 @@
 <h1 align="center">Salut, je suis Salah 👋</h1>
 
-Bienvenue sur mon profil GitHub !  
-Je suis un étudiant ingénieur en Génie Informatique et Technologies Émergentes, spécialité Développement Logiciel.  
-Passionné par la technologie et la résolution de problèmes complexes, je m'efforce continuellement d'améliorer mes compétences et de découvrir de nouvelles technologies innovantes.
+Je suis un étudiant en Génie Informatique et Technologies Émergentes, spécialisé en Développement Logiciel. Passionné par les nouvelles technologies et la résolution de problèmes complexes, je suis constamment à la recherche de moyens pour développer mes compétences et explorer des solutions innovantes.
 
+🚀 Actuellement, j’approfondis mes connaissances en React et Node.js, dans le but de maîtriser l’écosystème JavaScript full-stack (MERN).
 ---
 
 ## 🌟 À propos de moi
