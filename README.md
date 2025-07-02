@@ -38,7 +38,6 @@ Passionné par la technologie et la résolution de problèmes complexes, je m'ef
 ### 🎨 UI/UX Design
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
