@@ -19,7 +19,19 @@ Actuellement, j’approfondis mes connaissances en React et Node.js, dans le but
 
 - 🎯 **Objectif :**
   - Devenir un expert en ingénierie logicielle et IA, analyse des données et contribuer à des projets innovants et à fort impact.
+---
+## 🚀 Learning Resources I Recommend
 
+I’m currently learning web development, and one platform I truly recommend is **Scrimba**.
+
+✨ Why Scrimba?
+- Interactive coding directly in the browser
+- Beginner-friendly & project-based learning
+- Covers Frontend & Full-Stack paths
+
+🎁 **Get a discount using my link below** (affiliate link – supports my learning journey):
+
+👉 https://scrimba.com?via=u43506c8
 ---
 
 ## 🛠️ Langages et Technologies
